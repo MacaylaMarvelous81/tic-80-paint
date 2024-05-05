@@ -1,12 +1,22 @@
 
--- author:  game developer, email, etc.
--- desc:    short description
--- site:    website link
--- license: MIT License (change this to your license of choice)
+-- title: TIC-80 Paint
+-- author:  Jomar Milan <jomarm@jomarm.tech>
+-- desc:    simple pixel editor, wasm test project
+-- site:    https://github.com/MacaylaMarvelous81/tic-80-paint
+-- license: MIT License
+-- input: mouse
 -- version: 0.1
 -- script: wasm
 
+-- <WAVES>
+-- 000:a6798878669659559559999777899aaa
+-- </WAVES>
+
+-- <SFX>
+-- 000:0077007730774077407750776077707770c700c700c700c730c750c770c780c790c7a0c7c0c7d007e007e007f007f007f007f007f007f007f007f007000000000000
+-- </SFX>
+
 -- <PALETTE>
--- 000:140c1c44243430346d4e4a4e854c30346524d04648757161597dced27d2c8595a16daa2cd2aa996dc2cadad45edeeed6
+-- 000:140c1c44243430346d4e4a4e854c30346524d04648757161597dced27d2c3c38406daa2cd2aa996dc2cadad45edeeed6
 -- </PALETTE>
 
